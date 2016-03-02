@@ -9,7 +9,9 @@
 <body>
 
 
-<h1>BIENBENIDO A HEROKU</h1>
+<h1>BIENVENIDO A HEROKU</h1>
+
+	<h2>POR FIN TERMINE DE CONECTAR GIT + GITHUB + HEROKU</h2>
 	
 </body>
 </html>
